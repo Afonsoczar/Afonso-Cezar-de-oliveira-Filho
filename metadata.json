@@ -1,0 +1,7 @@
+{
+  "name": "Lelé da Kuka - Gestão de Clientes",
+  "description": "Aplicativo profissional para cadastro, organização e geolocalização de clientes comerciais para a Lelé da Kuka em Maceió-AL.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
